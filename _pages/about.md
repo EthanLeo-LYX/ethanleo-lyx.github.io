@@ -31,18 +31,6 @@ My research interest includes Large Language Model, Multi-Agent Framework and GU
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Oral)</div><img src='images/BiDeV.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[BiDeV: Bilateral Defusing Verification for Complex Claim Fact-Checking](./)
-
-**Yuxuan Liu**, Hongda Sun, Wenya Guo, Xinyan Xiao, Cunli Mao, Zhengtao Yu, Rui Yan
-
-[![](https://img.shields.io/github/stars/EthanLeo-LYX/BiDeV?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX/BiDeV)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/MobileSteward.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,6 +45,18 @@ My research interest includes Large Language Model, Multi-Agent Framework and GU
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024 (Oral)</div><img src='images/LLMQA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Oral)</div><img src='images/BiDeV.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BiDeV: Bilateral Defusing Verification for Complex Claim Fact-Checking](./)
+
+**Yuxuan Liu**, Hongda Sun, Wenya Guo, Xinyan Xiao, Cunli Mao, Zhengtao Yu, Rui Yan
+
+[![](https://img.shields.io/github/stars/EthanLeo-LYX/BiDeV?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX/BiDeV)
+
+</div>
+</div>
 
 [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217)
 
