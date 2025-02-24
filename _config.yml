@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxuan Liu"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Yuxuan Liu (刘宇轩)"
+  avatar           : "images/logo.jpg"
   bio              : "GSAI@RUC"
   location         : "Beijing, China"
   employer         :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : https://dblp.org/pid/42/7844-9
+  orcid            : https://orcid.org/0009-0007-2154-7215
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

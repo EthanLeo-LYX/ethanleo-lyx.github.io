@@ -70,16 +70,18 @@ Hongda Sun, **Yuxuan Liu**, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Sha
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06* Outstanding Graduates and Excellent Graduation Thesis, Nankai University
+- *2023.10* Huawei Scholarship, Nankai University
+- *2023.06* SK Artificial Intelligence Outstanding Undergraduates, Nankai University
+- *2022.12* National Scholarship, Nankai University
+- *2021.12* National Scholarship, Nankai University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - (now)*, Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2020.09 - 2024.06*, undergraduate student in the College of Computer Science, Nankai University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Academic Services
+- *Conference Reviewer*, WWW2025 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.04 - (now)*, Xiaomi, Beijing.
