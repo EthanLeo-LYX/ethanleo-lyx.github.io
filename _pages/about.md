@@ -62,7 +62,7 @@ My research interest includes Large Language Model, Multi-Agent Framework and GU
 
 Hongda Sun, **Yuxuan Liu**, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
 
-[![](https://img.shields.io/github/stars/EthanLeo/LLMQA?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX/LLMQA)
+[![](https://img.shields.io/github/stars/EthanLeo-LYX/LLMQA?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX/LLMQA)
 
 </div>
 </div>
