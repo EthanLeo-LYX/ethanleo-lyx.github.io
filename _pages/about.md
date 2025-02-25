@@ -61,7 +61,7 @@ My research interest includes Large Language Model, Multi-Agent Framework and GU
 
 [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217)
 
-Hongda Sun#, **Yuxuan Liu**#, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
+Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
 
 [![](https://img.shields.io/github/stars/EthanLeo-LYX/LLMQA?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX/LLMQA)
 
@@ -71,18 +71,18 @@ Hongda Sun#, **Yuxuan Liu**#, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo S
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.06*, Outstanding Graduates and Excellent Graduation Thesis, Nankai University
-- *2023.10*, Huawei Scholarship, Nankai University
-- *2023.06*, SK Artificial Intelligence Outstanding Undergraduates, Nankai University
-- *2022.12*, National Scholarship, Nankai University
-- *2021.12*, National Scholarship, Nankai University
+- *2024.06*: Outstanding Graduates and Excellent Graduation Thesis, Nankai University
+- *2023.10*: Huawei Scholarship, Nankai University
+- *2023.06*: SK Artificial Intelligence Outstanding Undergraduates, Nankai University
+- *2022.12*: National Scholarship, Nankai University
+- *2021.12*: National Scholarship, Nankai University
 
 # 📖 Educations
 - *2024.09 - (now)*, Ph.D. student in Gaoling School of Artificial Intelligence, Renmin University of China.
 - *2020.09 - 2024.06*, undergraduate student in the College of Computer Science, Nankai University.
 
 # 💬 Academic Services
-- *Conference Reviewer*: WWW2025 
+- **Conference Reviewer**: WWW2025 
 
 # 💻 Internships
 - *2024.04 - (now)*, Xiaomi, Beijing.
