@@ -61,7 +61,7 @@ My research interest includes Large Language Model, Multi-Agent Framework and GU
 
 [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217)
 
-Hongda Sun$^*$, **Yuxuan Liu**$^*$, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
+Hongda Sun#, **Yuxuan Liu**#, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
 
 [![](https://img.shields.io/github/stars/EthanLeo-LYX/LLMQA?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX/LLMQA)
 
