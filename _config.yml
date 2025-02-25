@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : https://dblp.org/pid/42/7844-9
-  orcid            : https://orcid.org/0009-0007-2154-7215
+  dblp             : # https://dblp.org/pid/42/7844-9
+  orcid            : # https://orcid.org/0009-0007-2154-7215
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  wechat           : "images/wechat.jpg"
 
 
 # Reading Files
