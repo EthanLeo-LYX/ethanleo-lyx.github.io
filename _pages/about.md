@@ -26,6 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎊🎊 One paper was accepted by **SIGIR 2025**. Congratulations!
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by **AAAI 2025** and selected as **oral** presentation. Thanks for all collaborators!
 - *2024.11*: &nbsp;🎉🎉 One paper was accepted by **KDD 2025**. Thanks for all collaborators!
 - *2024.01*: &nbsp;🎉🎉 One paper was accepted by **WWW 2024** and selected as **oral** presentation. Thanks for all collaborators!
