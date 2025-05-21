@@ -79,6 +79,9 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [Enhance Mobile Agents Thinking Process Via Iterative Preference Learning](https://arxiv.org/abs/2505.12299). (*Arxiv*)
   Kun Huang\*, Weikai Xu\*, **Yuxuan Liu**, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan, Bin Wang, Bo An.
 
+- [Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents](https://arxiv.org/pdf/2505.11891). (*Arxiv*)
+  Weikai Xu\*, Zhizheng Jiang\*, **Yuxuan Liu**, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
