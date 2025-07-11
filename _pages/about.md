@@ -73,8 +73,7 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 
 ## Others
 
-- <p><div class="badge">SIGIR 2025</div><a href="[https://www.microsoft.com/](https://arxiv.org/abs/2505.08532)">The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News</a></p>
-
+- [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532). (*SIGIR 2025*)
   Yuhan Liu, **Yuxuan Liu**, Xiaoqing Zhang, Xiuying Chen, Rui Yan.
  
 - [Enhance Mobile Agents Thinking Process Via Iterative Preference Learning](https://arxiv.org/abs/2505.12299). (*Arxiv*)
