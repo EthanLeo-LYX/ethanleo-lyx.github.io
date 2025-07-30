@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China (RUC), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ). I got my B.S. degree from [College of Computer Science](https://cc.nankai.edu.cn/) in Nankai University (NKU) in 2024. I am now an intern at Xiaomi AI Lab.
+Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in Renmin University of China (RUC), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ). I got my B.S. degree from [College of Computer Science](https://cc.nankai.edu.cn/) in Nankai University (NKU) in 2024. I am now an intern at MiLM Plus, Xiaomi.
 
 <!-- My research interest includes Large Language Model, Multi-Agent Framework and GUI Agent.  -->
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
@@ -96,7 +96,8 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - *2020.09 - 2024.06*, undergraduate student in the College of Computer Science, Nankai University.
 
 # 💬 Academic Services
-- **Conference Reviewer**: WWW2025, NeurIPS2025
+- **Conference Reviewer**: WWW2025, NeurIPS2025, AAAI2026
 
 # 💻 Internships
-- *2024.04 - (now)*, Xiaomi, Beijing.
+- *2024.04 - 2024,11*, AI Lab, Xiaomi, Beijing.
+- *2024.11 - (now)*, MiLM PLUS, Xiaomi, Beijing.
