@@ -75,6 +75,9 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 
 - [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532). (*SIGIR 2025*)
   Yuhan Liu, **Yuxuan Liu**, Xiaoqing Zhang, Xiuying Chen, Rui Yan.
+
+- [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://arxiv.org/abs/2511.13091). (*Arxiv*)
+  Yuhan Chen, **Yuxuan Liu**, Long Zhang, Pengzhi Gao, Jian Luan, Wei Liu
  
 - [Enhance Mobile Agents Thinking Process Via Iterative Preference Learning](https://arxiv.org/abs/2505.12299). (*Arxiv*)
   Kun Huang\*, Weikai Xu\*, **Yuxuan Liu**, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan, Bin Wang, Bo An.
