@@ -74,14 +74,14 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 
 ## Others
 
-- [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532). (*SIGIR 2025*)
-  Yuhan Liu, **Yuxuan Liu**, Xiaoqing Zhang, Xiuying Chen, Rui Yan.
-
 - [MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](https://arxiv.org/abs/2505.12299). (*ICLR 2026*)
   Kun Huang\*, Weikai Xu\*, **Yuxuan Liu**, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan, Bin Wang, Bo An.
 
 - [SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks](https://arxiv.org/pdf/2505.11891). (*ICLR 2026*)
   Weikai Xu\*, Zhizheng Jiang\*, **Yuxuan Liu**, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
+  
+- [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532). (*SIGIR 2025*)
+  Yuhan Liu, **Yuxuan Liu**, Xiaoqing Zhang, Xiuying Chen, Rui Yan.
 
 - [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://arxiv.org/abs/2511.13091). (*Arxiv*)
   Yuhan Chen, **Yuxuan Liu**, Long Zhang, Pengzhi Gao, Jian Luan, Wei Liu
