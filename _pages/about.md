@@ -26,6 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎊🎊 Two paper were accepted by **ICLR 2026**. Congratulations!
 - *2025.04*: &nbsp;🎊🎊 One paper was accepted by **SIGIR 2025**. Congratulations!
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by **AAAI 2025** and selected as **oral** presentation. Thanks for all collaborators!
 - *2024.11*: &nbsp;🎉🎉 One paper was accepted by **KDD 2025**. Thanks for all collaborators!
@@ -76,14 +77,16 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532). (*SIGIR 2025*)
   Yuhan Liu, **Yuxuan Liu**, Xiaoqing Zhang, Xiuying Chen, Rui Yan.
 
+- [MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](https://arxiv.org/abs/2505.12299). (*ICLR 2026*)
+  Kun Huang\*, Weikai Xu\*, **Yuxuan Liu**, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan, Bin Wang, Bo An.
+
+- [SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks](https://arxiv.org/pdf/2505.11891). (*ICLR 2026*)
+  Weikai Xu\*, Zhizheng Jiang\*, **Yuxuan Liu**, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
+
 - [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://arxiv.org/abs/2511.13091). (*Arxiv*)
   Yuhan Chen, **Yuxuan Liu**, Long Zhang, Pengzhi Gao, Jian Luan, Wei Liu
  
-- [Enhance Mobile Agents Thinking Process Via Iterative Preference Learning](https://arxiv.org/abs/2505.12299). (*Arxiv*)
-  Kun Huang\*, Weikai Xu\*, **Yuxuan Liu**, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan, Bin Wang, Bo An.
 
-- [Mobile-Bench-v2: A More Realistic and Comprehensive Benchmark for VLM-based Mobile Agents](https://arxiv.org/pdf/2505.11891). (*Arxiv*)
-  Weikai Xu\*, Zhizheng Jiang\*, **Yuxuan Liu**, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
