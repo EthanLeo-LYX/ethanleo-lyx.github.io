@@ -103,6 +103,7 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.09*: First Prize of Graduate Study Scholarship, Renmin University of China
 - *2024.06*: Outstanding Graduates and Excellent Graduation Thesis, Nankai University
 - *2023.10*: Huawei Scholarship, Nankai University
 - *2023.06*: SK Artificial Intelligence Outstanding Undergraduates, Nankai University
