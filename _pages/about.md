@@ -36,19 +36,19 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 
 ## First author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/MobileSteward.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/MobileSteward.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions](https://arxiv.org/abs/2502.16796)
 
 **Yuxuan Liu**, Hongda Sun, Wei Liu, Jian Luan, Bo Du, Rui Yan
 
-<!-- [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX) -->
+<!-- [![](https://img.shields.io/github/stars/QizhiPei/BioT5?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX)
 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Oral)</div><img src='images/BiDeV.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Oral)</div><img src='images/BiDeV.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BiDeV: Bilateral Defusing Verification for Complex Claim Fact-Checking](https://arxiv.org/abs/2502.16181)
@@ -58,9 +58,9 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 [![](https://img.shields.io/github/stars/EthanLeo-LYX/BiDeV?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX/BiDeV)
 
 </div>
-</div>
+</div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024 (Oral)</div><img src='images/LLMQA.jpg' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024 (Oral)</div><img src='images/LLMQA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217)
@@ -70,7 +70,19 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 [![](https://img.shields.io/github/stars/EthanLeo-LYX/LLMQA?style=social&label=Code+Stars)](https://github.com/EthanLeo-LYX/LLMQA)
 
 </div>
-</div>
+</div> -->
+
+- [**KDD 2025**] [MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions](https://arxiv.org/abs/2502.16796)
+**Yuxuan Liu**, Hongda Sun, Wei Liu, Jian Luan, Bo Du, Rui Yan
+
+- [**AAAI 2025 (Oral)**] [BiDeV: Bilateral Defusing Verification for Complex Claim Fact-Checking](https://arxiv.org/abs/2502.16181)
+**Yuxuan Liu**, Hongda Sun, Wenya Guo, Xinyan Xiao, Cunli Mao, Zhengtao Yu, Rui Yan
+
+- [**WWW 2024 (Oral)**] [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217)
+Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
+
+- [**Arxiv**] [Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](https://openreview.net/pdf?id=DVnK3ZgG9D)
+**Yuxuan Liu**, Weikai Xu, Kun Huang, Changyu Chen, Jiankun Zhao, Pengzhi Gao, Wei Liu, Jian Luan, Shuo Shang, Bo Du, Ji-Rong Wen, Rui Yan 
 
 ## Others
 
@@ -102,8 +114,8 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - *2020.09 - 2024.06*, undergraduate student in the College of Computer Science, Nankai University.
 
 # 💬 Academic Services
-- **Conference Reviewer**: WWW2025, NeurIPS2025, AAAI2026
+- **Conference Reviewer**: WWW2025, NeurIPS2025, AAAI2026, ARR2026
 
 # 💻 Internships
-- *2024.04 - 2024,11*, AI Lab, Xiaomi, Beijing.
+- *2024.04 - 2024.11*, AI Lab, Xiaomi, Beijing.
 - *2024.11 - (now)*, MiLM PLUS, Xiaomi, Beijing.
