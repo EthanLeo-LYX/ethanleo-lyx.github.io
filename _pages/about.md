@@ -81,7 +81,7 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**WWW 2024 (Oral)**] [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217)
 Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
 
-- [**Arxiv**] [Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](https://openreview.net/pdf?id=DVnK3ZgG9D)
+- [**Arxiv**] [Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](https://arxiv.org/pdf/2602.24142)
 **Yuxuan Liu**, Weikai Xu, Kun Huang, Changyu Chen, Jiankun Zhao, Pengzhi Gao, Wei Liu, Jian Luan, Shuo Shang, Bo Du, Ji-Rong Wen, Rui Yan 
 
 ## Others
