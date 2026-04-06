@@ -26,6 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎊🎊 One paper was accepted by **ACL 2026**. Congratulations!
 - *2026.01*: &nbsp;🎊🎊 Two papers were accepted by **ICLR 2026**. Congratulations!
 - *2025.04*: &nbsp;🎊🎊 One paper was accepted by **SIGIR 2025**. Congratulations!
 - *2024.12*: &nbsp;🎉🎉 One paper was accepted by **AAAI 2025** and selected as **oral** presentation. Thanks for all collaborators!
@@ -95,7 +96,7 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**SIGIR 2025**] [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532). 
   Yuhan Liu, **Yuxuan Liu**, Xiaoqing Zhang, Xiuying Chen, Rui Yan.
 
-- [**Arxiv**] [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://arxiv.org/abs/2511.13091). 
+- [**ACL 2026**] [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://arxiv.org/abs/2511.13091). 
   Yuhan Chen, **Yuxuan Liu**, Long Zhang, Pengzhi Gao, Jian Luan, Wei Liu
  
 
