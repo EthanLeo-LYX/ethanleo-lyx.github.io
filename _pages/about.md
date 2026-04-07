@@ -87,6 +87,9 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 
 ## Others
 
+- [**ACL 2026**] [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://arxiv.org/abs/2511.13091). 
+  Yuhan Chen, **Yuxuan Liu**, Long Zhang, Pengzhi Gao, Jian Luan, Wei Liu
+
 - [**ICLR 2026**] [MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning](https://arxiv.org/abs/2505.12299). 
   Kun Huang\*, Weikai Xu\*, **Yuxuan Liu**, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan, Bin Wang, Bo An.
 
@@ -96,8 +99,6 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**SIGIR 2025**] [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532). 
   Yuhan Liu, **Yuxuan Liu**, Xiaoqing Zhang, Xiuying Chen, Rui Yan.
 
-- [**ACL 2026**] [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://arxiv.org/abs/2511.13091). 
-  Yuhan Chen, **Yuxuan Liu**, Long Zhang, Pengzhi Gao, Jian Luan, Wei Liu
  
 
 
