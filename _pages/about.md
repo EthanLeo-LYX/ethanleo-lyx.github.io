@@ -26,6 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 Selected by 2026 Tencent Rhino-Bird Elite Talent Program.
 - *2026.04*: &nbsp;🎊🎊 One paper was accepted by **ACL 2026**. Congratulations!
 - *2026.01*: &nbsp;🎊🎊 Two papers were accepted by **ICLR 2026**. Congratulations!
 - *2025.04*: &nbsp;🎊🎊 One paper was accepted by **SIGIR 2025**. Congratulations!
@@ -105,6 +106,7 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2026.04*: 2026 Tencent Rhino-Bird Elite Talent Program, Tencent
 - *2025.09*: First Prize of Graduate Study Scholarship, Renmin University of China
 - *2024.06*: Outstanding Graduates and Excellent Graduation Thesis, Nankai University
 - *2023.10*: Huawei Scholarship, Nankai University
