@@ -26,7 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Selected by 2026 Tencent Rhino-Bird Elite Talent Program.
+- *2026.04*: &nbsp;🎉🎉 Selected by **2026 Tencent Rhino-Bird Elite Talent Program**.
 - *2026.04*: &nbsp;🎊🎊 One paper was accepted by **ACL 2026**. Congratulations!
 - *2026.01*: &nbsp;🎊🎊 Two papers were accepted by **ICLR 2026**. Congratulations!
 - *2025.04*: &nbsp;🎊🎊 One paper was accepted by **SIGIR 2025**. Congratulations!
