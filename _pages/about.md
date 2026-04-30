@@ -26,6 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper was accepted by **ICML 2026**. Thanks for all collaborators!
 - *2026.04*: &nbsp;🎉🎉 Selected by **2026 Tencent Rhino-Bird Elite Talent Program**.
 - *2026.04*: &nbsp;🎊🎊 One paper was accepted by **ACL 2026**. Congratulations!
 - *2026.01*: &nbsp;🎊🎊 Two papers were accepted by **ICLR 2026**. Congratulations!
@@ -74,6 +75,9 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 </div>
 </div> -->
 
+- [**ICML 2026**] [Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](https://arxiv.org/pdf/2602.24142).
+**Yuxuan Liu**, Weikai Xu, Kun Huang, Changyu Chen, Jiankun Zhao, Pengzhi Gao, Wei Liu, Jian Luan, Shuo Shang, Bo Du, Ji-Rong Wen, Rui Yan 
+
 - [**KDD 2025**] [MobileSteward: Integrating Multiple App-Oriented Agents with Self-Evolution to Automate Cross-App Instructions](https://arxiv.org/abs/2502.16796).
 **Yuxuan Liu**, Hongda Sun, Wei Liu, Jian Luan, Bo Du, Rui Yan
 
@@ -82,9 +86,6 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 
 - [**WWW 2024 (Oral)**] [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217).
 Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
-
-- [**Arxiv**] [Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning](https://arxiv.org/pdf/2602.24142).
-**Yuxuan Liu**, Weikai Xu, Kun Huang, Changyu Chen, Jiankun Zhao, Pengzhi Gao, Wei Liu, Jian Luan, Shuo Shang, Bo Du, Ji-Rong Wen, Rui Yan 
 
 ## Others
 
