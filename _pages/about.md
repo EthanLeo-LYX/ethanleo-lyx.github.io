@@ -102,7 +102,7 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
   Yuhan Liu, **Yuxuan Liu**, Xiaoqing Zhang, Xiuying Chen, Rui Yan.
 
 - [**Arxiv**] [How Mobile World Model Guides GUI Agents?](https://arxiv.org/abs/2605.10347).
-  Weikai Xu, Kun Huang, Yunren Feng, Jiaxing Li, Yuhan Chen, **Yuxuan Liu**, Zhizheng Jiang, Heng Qu, Pengzhi Gao, Wei Liu, Jian Luan, Xiaolin Hu, Bo An
+  Weikai Xu\*, Kun Huang\*, Yunren Feng\*, Jiaxing Li, Yuhan Chen, **Yuxuan Liu**, Zhizheng Jiang, Heng Qu, Pengzhi Gao, Wei Liu, Jian Luan, Xiaolin Hu, Bo An
 
  
 
