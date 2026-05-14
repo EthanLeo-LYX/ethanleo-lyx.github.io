@@ -126,6 +126,6 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - **Conference Reviewer**: WWW2025, NeurIPS2025, AAAI2026, ARR2026
 
 # 💻 Internships
-- *2024.04 - 2024.11*, AI Lab, Xiaomi, Beijing.
-- *2024.11 - 2026.05*, MiLM PLUS, Xiaomi, Beijing.
 - *2026.05 - (now)*, Hunyuan Team, Tencent, Shenzhen.
+- *2024.11 - 2026.05*, MiLM PLUS, Xiaomi, Beijing.
+- *2024.04 - 2024.11*, AI Lab, Xiaomi, Beijing.
