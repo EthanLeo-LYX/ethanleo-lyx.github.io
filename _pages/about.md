@@ -26,6 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎊🎊 One paper was accepted by **KDD 2026**. Congratulations!
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by **ICML 2026**. Thanks for all collaborators!
 - *2026.04*: &nbsp;🎉🎉 Selected by **2026 Tencent Rhino-Bird Elite Talent Program**.
 - *2026.04*: &nbsp;🎊🎊 One paper was accepted by **ACL 2026**. Congratulations!
@@ -97,6 +98,9 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 
 - [**ICLR 2026**] [SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks](https://arxiv.org/abs/2505.11891). 
   Weikai Xu\*, Zhizheng Jiang\*, **Yuxuan Liu**, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
+
+- [**KDD 2026**] [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org).
+  Songhao Wu, Zhongxin Chen, **Yuxuan Liu**, Heng Cui, Cong Li, Rui Yan
   
 - [**SIGIR 2025**] [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532). 
   Yuhan Liu, **Yuxuan Liu**, Xiaoqing Zhang, Xiuying Chen, Rui Yan.
