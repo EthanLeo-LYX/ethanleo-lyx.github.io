@@ -88,6 +88,9 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**WWW 2024 (Oral)**] [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217).
 Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
 
+- [**Arxiv 2026*] [PhoneWorld: Scaling Phone-Use Agent Environments](https://arxiv.org/abs/2605.29486).
+  Zhengyang Tang\*, **Yuxuan Liu\***, Xin Lai\*, Junyi Li\*, Pengyuan Lyu\*, Jason\*, Yiduo Guo, Zhengyao Fang, Yang Ding, Yi Zhang, Weinong Wang, Huawen Shen, Xingran Zhou, Liang Wu, Fei Tang, Sunqi Fan, Shangpin Peng, Zheng Ruan, Anran Zhang, Benyou Wang, Rui Yan, Ji-Rong Wen, Chengquan Zhang, Han Hu
+
 ## Others
 
 - [**ACL 2026**] [STEP: Success-Rate-Aware Trajectory-Efficient Policy Optimization](https://arxiv.org/abs/2511.13091). 
