@@ -102,7 +102,7 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**ICLR 2026**] [SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks](https://arxiv.org/abs/2505.11891). 
   Weikai Xu\*, Zhizheng Jiang\*, **Yuxuan Liu**, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
 
-- [**KDD 2026**] [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org).
+- [**KDD 2026**] [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org/abs/2606.07502).
   Songhao Wu, Zhongxin Chen, **Yuxuan Liu**, Heng Cui, Cong Li, Rui Yan
   
 - [**SIGIR 2025**] [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532). 
