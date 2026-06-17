@@ -111,6 +111,8 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**Arxiv**] [How Mobile World Model Guides GUI Agents?](https://arxiv.org/abs/2605.10347).
   Weikai Xu\*, Kun Huang\*, Yunren Feng\*, Jiaxing Li, Yuhan Chen, **Yuxuan Liu**, Zhizheng Jiang, Heng Qu, Pengzhi Gao, Wei Liu, Jian Luan, Xiaolin Hu, Bo An
 
+- [**Arxiv**] [GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?](https://arxiv.org/abs/2606.17861).
+  Tongxu Luo\*, Rongsheng Wang\*, Jiaxi Bi\*, Chenming Xu\*, Zhengyang Tang\*, Jianlong Chen, Juhao Liang, Ke Ji, Shuqi Guo, Yuhao Du, Fan Bu, Wenyu Du, Xiaotong Zhang, Kyle Li, Shaobo Wang, Linfeng Zhang, **Yuxuan Liu**, Xin Lai, Chenxin Li, Yiduo Guo, Zhexin Zhang, Xinyuan Wang, Tianyi Bai, Ziniu Li, Benyou Wang
  
 
 
