@@ -26,7 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a first year Ph.D. student at [G
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎊🎊 One paper was accepted by **KDD 2026**. Congratulations!
+- *2026.05*: &nbsp;🎊🎊 One paper was accepted by **KDD 2026** and selected as **oral** presentation. Congratulations!
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by **ICML 2026**. Thanks for all collaborators!
 - *2026.04*: &nbsp;🎉🎉 Selected by **2026 Tencent Rhino-Bird Elite Talent Program**.
 - *2026.04*: &nbsp;🎊🎊 One paper was accepted by **ACL 2026**. Congratulations!
@@ -88,8 +88,11 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**WWW 2024 (Oral)**] [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217).
 Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
 
-- [**Arxiv 2026**] [PhoneWorld: Scaling Phone-Use Agent Environments](https://arxiv.org/abs/2605.29486).
+- [**Arxiv**] [PhoneWorld: Scaling Phone-Use Agent Environments](https://arxiv.org/abs/2605.29486).
   Zhengyang Tang\*, **Yuxuan Liu\***, Xin Lai\*, Junyi Li\*, Pengyuan Lyu\*, Jason\*, Yiduo Guo, Zhengyao Fang, Yang Ding, Yi Zhang, Weinong Wang, Huawen Shen, Xingran Zhou, Liang Wu, Fei Tang, Sunqi Fan, Shangpin Peng, Zheng Ruan, Anran Zhang, Benyou Wang, Rui Yan, Ji-Rong Wen, Chengquan Zhang, Han Hu
+
+- [**Arxiv**] [Training Open Models for Agentic Phone Use](https://arxiv.org/abs/2606.23049).
+  Zhengyang Tang\*, Xin Lai\*, Pengyuan Lyu\*, Xinyuan Wang\*, Tianyi Bai\*, Chenxin Li\*, Yiduo Guo\*, Huawen Shen\*, **Yuxuan Liu\***, Junyi Li, Zhengyao Fang, Yang Ding, Yi Zhang, Weinong Wang, Xingran Zhou, Liang Wu, Fei Tang, Sunqi Fan, Shangpin Peng, Zheng Ruan, Anran Zhang, Benyou Wang, Ji-Rong Wen, Rui Yan, Chengquan Zhang, Han Hu
 
 ## Others
 
