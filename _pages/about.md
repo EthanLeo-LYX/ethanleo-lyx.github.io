@@ -114,6 +114,10 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**Arxiv**] [How Mobile World Model Guides GUI Agents?](https://arxiv.org/abs/2605.10347).
   Weikai Xu\*, Kun Huang\*, Yunren Feng\*, Jiaxing Li, Yuhan Chen, **Yuxuan Liu**, Zhizheng Jiang, Heng Qu, Pengzhi Gao, Wei Liu, Jian Luan, Xiaolin Hu, Bo An
 
+- [**Arxiv**] [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://arxiv.org/abs/2608.05891).
+  Weikai Xu\*, Yunren Feng\*, Haoxiang Lei\*, Kun Huang, **Yuxuan Liu**, Kang Zhao, Xiaolin Hu, Shuo Shang, Bo An
+
+
 <!-- - [**Arxiv**] [OfficeInstruct: A Dataset for Tool-Augmented Office Agents on Long-Trajectory Generative Tasks](https://arxiv.org).
   Weikai Xu, Zhizheng Jiang, Lushuo Jiang, Kun Huang, **Yuxuan Liu**, Pengzhi Gao, Wei Liu, Jian Luan, Xiaolin Hu, Bo An -->
 
