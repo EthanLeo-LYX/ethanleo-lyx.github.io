@@ -89,7 +89,7 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
 
 - [**Arxiv**] [PhoneWorld: Scaling Phone-Use Agent Environments](https://arxiv.org/abs/2605.29486).
-  Zhengyang Tang\*, **Yuxuan Liu\***, Xin Lai\*, Junyi Li\*, Pengyuan Lyu\*, Jason\*, Yiduo Guo, Zhengyao Fang, Yang Ding, Yi Zhang, Weinong Wang, Huawen Shen, Xingran Zhou, Liang Wu, Fei Tang, Sunqi Fan, Shangpin Peng, Zheng Ruan, Anran Zhang, Benyou Wang, Rui Yan, Ji-Rong Wen, Chengquan Zhang, Han Hu
+  **Yuxuan Liu\***, Xin Lai\*, Junyi Li\*, Pengyuan Lyu\*, Jason\*, Yiduo Guo, Zhengyao Fang, Yang Ding, Yi Zhang, Weinong Wang, Huawen Shen, Xingran Zhou, Liang Wu, Fei Tang, Sunqi Fan, Shangpin Peng, Zheng Ruan, Anran Zhang, Chengquan Zhang, Han Hu, Benyou Wang, Ji-Rong Wen, Rui Yan, Zhengyang Tang
 
 - [**Arxiv**] [Training Open Models for Agentic Phone Use](https://arxiv.org/abs/2606.23049).
   Zhengyang Tang\*, Xin Lai\*, Pengyuan Lyu\*, Xinyuan Wang\*, Tianyi Bai\*, Chenxin Li\*, Yiduo Guo\*, Huawen Shen\*, **Yuxuan Liu\***, Junyi Li, Zhengyao Fang, Yang Ding, Yi Zhang, Weinong Wang, Xingran Zhou, Liang Wu, Fei Tang, Sunqi Fan, Shangpin Peng, Zheng Ruan, Anran Zhang, Benyou Wang, Ji-Rong Wen, Rui Yan, Chengquan Zhang, Han Hu
