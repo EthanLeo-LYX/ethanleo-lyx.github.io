@@ -26,6 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a third year Ph.D. student at [G
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎊🎊 One paper was accepted by **NeurIPS 2026**. Congratulations!
 - *2026.05*: &nbsp;🎊🎊 One paper was accepted by **KDD 2026** and selected as **oral** presentation. Congratulations!
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by **ICML 2026**. Thanks for all collaborators!
 - *2026.04*: &nbsp;🎉🎉 Selected by **2026 Tencent Rhino-Bird Elite Talent Program**.
@@ -105,6 +106,9 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**ICLR 2026**] [SMAN-Bench: A Cross-System Benchmark for Mobile Agents under Single- and Multi-path, Ambiguous, and Noisy Tasks](https://arxiv.org/abs/2505.11891). 
   Weikai Xu\*, Zhizheng Jiang\*, **Yuxuan Liu**, Wei Liu, Jian Luan, Yuanchun Li, Yunxin Liu, Bin Wang, Bo An
 
+- [**NeurIPS 2026**] [OfficeInstruct: A Dataset for Tool-Augmented Office Agents on Long-Trajectory Generative Tasks](https://arxiv.org).
+  Weikai Xu, Zhizheng Jiang, Lushuo Jiang, Kun Huang, **Yuxuan Liu**, Pengzhi Gao, Wei Liu, Jian Luan, Xiaolin Hu, Bo An
+  
 - [**KDD 2026 (Oral)**] [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org/abs/2606.07502).
   Songhao Wu, Zhongxin Chen, **Yuxuan Liu**, Heng Cui, Cong Li, Rui Yan
   
@@ -116,10 +120,6 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 
 - [**Arxiv**] [AppDeltaWorld: Transition-Grounded Delta Code World Model for Mobile GUI Agents](https://arxiv.org/abs/2608.05891).
   Weikai Xu\*, Yunren Feng\*, Haoxiang Lei\*, Kun Huang, **Yuxuan Liu**, Kang Zhao, Xiaolin Hu, Shuo Shang, Bo An
-
-
-<!-- - [**Arxiv**] [OfficeInstruct: A Dataset for Tool-Augmented Office Agents on Long-Trajectory Generative Tasks](https://arxiv.org).
-  Weikai Xu, Zhizheng Jiang, Lushuo Jiang, Kun Huang, **Yuxuan Liu**, Pengzhi Gao, Wei Liu, Jian Luan, Xiaolin Hu, Bo An -->
 
 - [**Arxiv**] [GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?](https://arxiv.org/abs/2606.17861).
   Tongxu Luo\*, Rongsheng Wang\*, Jiaxi Bi\*, Chenming Xu\*, Zhengyang Tang\*, Jianlong Chen, Juhao Liang, Ke Ji, Shuqi Guo, Yuhao Du, Fan Bu, Wenyu Du, Xiaotong Zhang, Kyle Li, Shaobo Wang, Linfeng Zhang, **Yuxuan Liu**, Xin Lai, Chenxin Li, Yiduo Guo, Zhexin Zhang, Xinyuan Wang, Tianyi Bai, Ziniu Li, Benyou Wang
