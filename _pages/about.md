@@ -89,7 +89,7 @@ Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo
 - [**WWW 2024 (Oral)**] [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/abs/2403.05217).
 Hongda Sun\*, **Yuxuan Liu\***, Chengwei Wu, Haiyu Yan, Cheng Tai, Xin Gao, Shuo Shang, Rui Yan
 
-- [**Arxiv**] [PhoneWorld: Scaling Phone-Use Agent Environments](https://arxiv.org/abs/2605.29486).
+- [**Arxiv**] [PhoneWorld: From Real-App Trajectories to Dynamic and Verifiable Environments for Phone-Use Agents](https://arxiv.org/abs/2605.29486).
   **Yuxuan Liu\***, Xin Lai\*, Junyi Li\*, Pengyuan Lyu\*, Jason\*, Yiduo Guo, Zhengyao Fang, Yang Ding, Yi Zhang, Weinong Wang, Huawen Shen, Xingran Zhou, Liang Wu, Fei Tang, Sunqi Fan, Shangpin Peng, Zheng Ruan, Anran Zhang, Chengquan Zhang, Han Hu, Benyou Wang, Ji-Rong Wen, Rui Yan, Zhengyang Tang
 
 - [**Arxiv**] [Training Open Models for Agentic Phone Use](https://arxiv.org/abs/2606.23049).
