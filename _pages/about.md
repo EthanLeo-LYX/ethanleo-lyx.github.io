@@ -26,6 +26,7 @@ Hi, I am Yuxuan Liu (刘宇轩)! I am currently a third year Ph.D. student at [G
 
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 **[Hy4](https://hunyuan.tencent.com/research/hy4) is released now!** First step for computer use. ALEv1.1@41.0 and OSWorldv2.1@78.9!
 - *2026.09*: &nbsp;🎊🎊 One paper was accepted by **NeurIPS 2026**. Congratulations!
 - *2026.05*: &nbsp;🎊🎊 One paper was accepted by **KDD 2026** and selected as **oral** presentation. Congratulations!
 - *2026.05*: &nbsp;🎉🎉 One paper was accepted by **ICML 2026**. Thanks for all collaborators!
